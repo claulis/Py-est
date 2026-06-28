@@ -108,10 +108,4 @@ Recomenda-se seguir a ordem:
 
 Contribuições são bem-vindas. Sinta-se a vontade para abrir issues com sugestoes, enviar pull requests com melhorias ou reportar erros.
 
----
 
-## Licenca
-
-Este projeto esta sob a licenca MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-Ultima atualizacao: Junho de 2026
